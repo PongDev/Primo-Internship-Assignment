@@ -1,3 +1,5 @@
+import { IUtility } from "src/types/utility.type";
+
 export class Utility implements IUtility {
   merge(collection_1: number[], collection_2: number[]): number[] {
     let mergeCollection: number[] = [];
