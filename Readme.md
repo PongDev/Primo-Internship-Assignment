@@ -12,3 +12,11 @@ Run `yarn` to install project dependencies
 ```
 yarn
 ```
+
+## Testing
+
+Run `yarn test` to run tests
+
+```
+yarn test
+```
