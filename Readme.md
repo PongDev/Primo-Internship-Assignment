@@ -23,15 +23,15 @@ yarn test
 
 ## Executing CLI
 
-Run `yarn run:dev` to run cli with typescript
+Run `yarn run:ts` to run cli with typescript
 
 ```
-yarn run:dev
+yarn run:ts
 ```
 
-Run `yarn build` follow by `yarn run:prod` to build to javascript and run
+Run `yarn build` follow by `yarn run:js` to build to javascript and run
 
 ```
 yarn build
-yarn run:prod
+yarn run:js
 ```

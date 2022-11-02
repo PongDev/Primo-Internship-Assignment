@@ -11,8 +11,8 @@
   "scripts": {
     "build": "npx tsc",
     "dev": "npx tsc -w",
-    "run:dev": "ts-node src/index.ts",
-    "run:build": "ts-node build/index.js",
+    "run:ts": "ts-node src/index.ts",
+    "run:js": "ts-node build/index.js",
     "test": "jest"
   },
   "author": "PongDev",
